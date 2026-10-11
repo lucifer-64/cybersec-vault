@@ -1,4 +1,5 @@
-#  [Platform Name] - [Room / Challenge Name]
+Markdown
+# 🚩 [Platform Name] - [Room / Challenge Name]
 
 - **Platform:** [TryHackMe / Hack The Box / OverTheWire / PicoCTF]
 - **Difficulty:** [Easy / Medium / Hard / Insane]
@@ -8,12 +9,12 @@
 
 ---
 
-##  Executive Summary
+## 📌 Executive Summary
 Briefly summarize the challenge. What was the main objective? What vulnerabilities were discovered, and what was the high-level path to gaining root/administrator access?
 
 ---
 
-##  1. Reconnaissance & Enumeration
+## 🔍 1. Reconnaissance & Enumeration
 
 ### Port Scanning (Nmap)
 Run an Nmap scan to identify open ports and services:
