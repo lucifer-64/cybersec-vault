@@ -1,10 +1,10 @@
-# 🐧 Linux Networking Cheatsheet
+#  Linux Networking Cheatsheet
 
 A quick-reference guide for essential Linux networking commands used in troubleshooting, system administration, and security analysis.
 
 ---
 
-## 🔍 1. Interface & IP Configuration
+##  1. Interface & IP Configuration
 
 | Command | Description |
 | :--- | :--- |
@@ -28,7 +28,7 @@ A quick-reference guide for essential Linux networking commands used in troubles
 
 ---
 
-## 🔌 3. Active Connections & Listening Ports
+##  3. Active Connections & Listening Ports
 
 | Command | Description |
 | :--- | :--- |
@@ -39,7 +39,7 @@ A quick-reference guide for essential Linux networking commands used in troubles
 
 ---
 
-## 🌐 4. DNS & Name Resolution
+##  4. DNS & Name Resolution
 
 | Command | Description |
 | :--- | :--- |
@@ -53,7 +53,7 @@ A quick-reference guide for essential Linux networking commands used in troubles
 
 ---
 
-## 📦 5. Traffic Analysis & Packet Capture
+##  5. Traffic Analysis & Packet Capture
 
 | Command | Description |
 | :--- | :--- |
@@ -64,7 +64,7 @@ A quick-reference guide for essential Linux networking commands used in troubles
 
 ---
 
-## 🛡️ 6. Firewall & Security Operations
+##  6. Firewall & Security Operations
 
 | Command | Description |
 | :--- | :--- |
@@ -76,7 +76,7 @@ A quick-reference guide for essential Linux networking commands used in troubles
 
 ---
 
-## 🛠️ 7. File Transfer & Remote Access
+##  7. File Transfer & Remote Access
 
 | Command | Description |
 | :--- | :--- |
